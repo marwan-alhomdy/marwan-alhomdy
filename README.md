@@ -26,11 +26,8 @@ MARWAN AL-HOMDY </a> <img width="30px" src="https://raw.githubusercontent.com/ia
 
 <br/>
 <br/>
-<hr/>
 
 ### 🛠 &nbsp;Tech Stack
-
-
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript">
   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=bootstrap&logoColor=563D7C">
@@ -50,7 +47,6 @@ MARWAN AL-HOMDY </a> <img width="30px" src="https://raw.githubusercontent.com/ia
 </div>
 
 
-<br/>
 <br/>
 <hr/>
 
