@@ -22,7 +22,7 @@ MARWAN AL-HOMDY </a> <img width="30px" src="https://raw.githubusercontent.com/ia
 
 - 💬 Ask me about **<a href="https://flutter.dev/">Flutter</a> & <a href="https://dart.dev/">Dart</a>**
 
-- 📫 How to reach me **ezz2019alarab@gmail.com**
+- 📫 How to reach me **m.alhoomdy@gmail.com**
 
 <br/>
 <br/>
