@@ -47,6 +47,24 @@ MARWAN AL-HOMDY </a> <img width="30px" src="https://raw.githubusercontent.com/ia
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript">
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=bootstrap&logoColor=563D7C">
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5">
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react">
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js&logoColor=339933">
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git">
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC">
+  <img src="https://img.shields.io/badge/-Sass-05122A?style=flat-square&logo=sass">
+  <img src="https://img.shields.io/badge/-GraphQL-05122A?style=flat-square&logo=graphql">
+  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart">
+  <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=flutter">
+</div>
+
 
 <br/>
 <br/>
