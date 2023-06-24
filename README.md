@@ -27,6 +27,7 @@ MARWAN AL-HOMDY </a> <img width="30px" src="https://raw.githubusercontent.com/ia
 <br/>
 <br/>
 <hr/>
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -43,6 +44,7 @@ MARWAN AL-HOMDY </a> <img width="30px" src="https://raw.githubusercontent.com/ia
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Dart](https://img.shields.io/badge/-dart%20-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-flutter%20-05122A?style=flat&logo=flutter)&nbsp;
+
 <br/>
 <br/>
 <hr/>
