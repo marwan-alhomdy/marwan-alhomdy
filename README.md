@@ -25,7 +25,7 @@ MARWAN AL-HOMDY </a> <img width="30px" src="https://raw.githubusercontent.com/ia
 - 📫 How to reach me **m.alhoomdy@gmail.com**
 
 <br/>
-<br/>
+<hr/>
 
 ### 🛠 &nbsp;Tech Stack
 <div align="center">
@@ -47,7 +47,6 @@ MARWAN AL-HOMDY </a> <img width="30px" src="https://raw.githubusercontent.com/ia
 </div>
 
 
-<br/>
 <hr/>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contact with me 🤝 </h3>
