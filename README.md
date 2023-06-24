@@ -1,9 +1,9 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://raw.githubusercontent.com/Ezzalarab/Ezzalarab/main/imgs/flutter-page-banner-image.png"/>
+  <img style="width:8rem; height:auto" src="https://raw.githubusercontent.com/alhomdy/alhomdy/main/imgs/flutter-page-banner-image.png"/>
 </p>
 
 <h1 align="center">Hi, I'm  <a href="https://github.com/alhomdy/alhomdy" target="blank">
-Ezzalarab </a> <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+MARWAN AL-HOMDY </a> <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <h3 align="center">I'm a mobile applications developer having an experience with Flutter</h3>
 <h3 align="center"> 📄 Know more about <a href="https://drive.google.com/file/d/11pjKG1w78i3IJdwEpaeexFwr_CfYQ68q/view?usp=sharing" target="blank">my CV</a></h3>
